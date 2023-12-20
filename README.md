@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Roshan-Shah-7
-- 👀 I’m interested in coding,gaming,
-- 🌱 I’m currently learning C,Python,HTML.
-- 💞️ I’m looking to collaborate on Expert who can teach new skills in IT field.
-- 📫 How to reach me? By mailing me in roshanshah12113@gmail.com
+- 👀 Love to play video games and learn coding, music and so on
+- 🌱 I'm a Front-End Developer
+- 💞️ I’m looking to collaborate with an Expert who can teach new skills in the IT field.
+- 📫 How to reach me? By mailing me at roshanshah12113@gmail.com
 
 <!---
 Roshan-Shah-7/Roshan-Shah-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
