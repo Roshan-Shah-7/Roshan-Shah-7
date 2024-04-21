@@ -1,4 +1,4 @@
--  Hi, I’m @Roshan-Shah-7
+-  Hi, I’m Roshan Shah
 -  Love to play video games and learn coding, music, and so on
 -  I'm a Front-End Developer
 -  I’m looking to collaborate with an Expert who can teach new skills in the IT field.
