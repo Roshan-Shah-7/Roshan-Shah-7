@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Roshan Shah</h1>
-<h3 align="center">A passionate Frontend Developer from Nepal</h3>
+<h3 align="center">A passionate front-end developer from Nepal</h3>
 
-<img align="left" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
+<img align="right"
+    src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+    alt="coding" width="400" loop mute autoplay>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=roshan-shah-7&label=Profile%20views&color=0e75b6&style=flat"
         alt="roshan-shah-7" /> </p>
 
-- 👨‍💻 All of my projects are available at
-[https://roshan-shah-7.github.io/Official_personal-portfolio/](https://roshan-shah-7.github.io/Official_personal-portfolio/)
+- 👨‍💻 All of my projects are available at <br>
+(https://roshan-shah-7.github.io/Official_personal-portfolio/)
 
+<br>
 - 📫 How to reach me **roshanshahnp7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,7 +23,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+<p align="left" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 2rem;">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
         rel="noreferrer"> <img
